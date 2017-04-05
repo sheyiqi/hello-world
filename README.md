@@ -1,2 +1,3 @@
 # hello-world
-A特殊特点
+A test repository for train Github Hello Wolrd toturial.
+
